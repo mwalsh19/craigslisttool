@@ -1,0 +1,125 @@
+Phoenix - Central/South Phx - AZ
+Phoenix - East Valley - AZ
+Phoenix - Phx North - AZ
+West Valley Phoenix - AZ
+Vancouver - Vancouver
+Vancouver - North Shore
+Vancouver - Burnaby/Newwest
+Vancouver - Delta/Surrey/Langley
+Vancouver - Tricities/Pitt/Maple
+Vancouver - Richmond
+San Diego - City of San Diego - CA
+San Diego - City of San Diego - CA 
+San Diego - North San Diego County - CA
+San Diego - East San Diego County - CA
+Los Angeles - Westside-Southbay-310 - CA
+Los Angeles - San Fernando Valley - CA
+Los Angeles - Central LA 213/323 - CA
+Los Angeles - San Gabriel Valley - CA
+Los Angeles - Long beach / 562 - CA
+Los Angeles - Antelope Valley - CA
+Inland Empire - CA
+Orange County - CA
+Sacramento - CA
+Denver - CO
+Fairfield County - CT
+Washington - District of Columbia - DC
+Washington - Northern Virginia - DC
+Washington - Maryland - DC 
+Fort Lauderdale - Miami / Dade County -FL
+Fort Lauderdale - Broward County - FL
+Fort Lauderdale - Palm Beach County - FL
+Ft Myers / SW Florida - Lee County - FL
+Ft Myers / SW Florida - Charlotte County - FL
+Ft Myers / SW Florida - Collier County - FL
+Tampa Bay Area - Hernando Co - FL
+Tampa Bay Area - Hillsborough Co - FL
+Tampa Bay Area - Pasco Co - FL
+Tampa Bay Area - Pinellas Co - FL
+Jacksonville - FL
+Orlando - FL
+West Palm Beach - Miami / Dade County - FL
+West Palm Beach - Broward County - FL
+West Palm Beach - Palm Beach County - FL
+Atlanta - City of Atlanta - GA
+Atlanta - Otp North - GA
+Atlanta - Otp East - GA
+Atlanta - Otp South - GA
+Atlanta - Otp West - GA
+Hawaii - Honolulu, Oahu - HI
+Hawaii - Big Island - HI
+Hawaii - Maui - HI
+Hawaii - Kauai - HI
+Hawaii - Molokai - HI
+Chicago - City of Chicago- IL
+Chicago - North Chicagoland - IL
+Chicago - West Chicagoland- IL
+Chicago - South Chicagoland - IL 
+Chicago - Northwest Indiana - IL
+Indianapolis - IN
+Baltimore - MD
+Boston - Boston/Cambridge/Brookline - MA
+Boston - Northwest/Merrimack - MA
+Boston - Metro West - MA
+Boston - North Shore - MA
+Boston - South Shore - MA
+Detroit Metro - Macomb County - MI
+Detroit Metro - Wayne County - MI
+Detroit Metro - Oakland County - MI
+Minneapolis/St. Paul - Hennepin County - MN
+Minneapolis/St. Paul - Ramsey County - MN
+Minneapolis/St. Paul - Anoka/Chisago/Isanti - MN
+Minneapolis/St. Paul - Washington Co / WI - MN
+Minneapolis/St. Paul - Dakota / Scott - MN
+Minneapolis/St. Paul - Carver/Sherburne/Wright - MN
+Kansas City, MO - MO
+St Louis - MO
+Las Vegas - NV
+New Hampshire - NH
+Central NJ - NJ
+North Jersey - NJ
+South Jersey - NJ
+Long Island - NY
+New York City - Manhattan - NY
+New York City - Brooklyn - NY
+New York City - Queens - NY
+New York City - Bronx - NY 
+New York City - Staten Island - NY
+New York City - New Jersey - NY
+New York City - Long Ssland - NY
+New York City - Westchester - NY
+New York City - Fairfield Co, CT - NY
+Charlotte - NC
+Raleigh/Durham/CH - NC
+Cincinnati - OH
+Cleveland - OH
+Columbus, OH - OH
+Oklahoma City - OK
+Tulsa - OK 
+Portland - Multnomah County - OR
+Portland - Washington County - OR
+Portland - Clark/Cowlitz WA - OR
+Portland - Clackamas County - OR
+Portland - North Coast - OR
+Portland - Yamhill Co - OR 
+Philadelphia - PA
+Pittsburgh - PA
+Nashville - TN
+Hampton Roads - VA
+Richmond - VA
+Seattle-tacoma - Seattle - WA
+Seattle-tacoma - Eastside - WA
+Seattle-tacoma - Snohomish County - WA 
+Seattle-tacoma - Kitsap / West Puget - WA 
+Seattle-tacoma - Tacoma / Pierce - WA
+Seattle-tacoma - Olympia / Thurston - WA
+Seattle-tacoma - South King Co - WA
+Milwaukee - WI
+Dallas / Fort Worth - Dallas - TX
+Dallas / Fort Worth - Dort Worth - TX
+Dallas / Fort Worth - Mid Cities - TX
+Dallas / Fort Worth - North DFW - TX 
+Dallas / Fort Worth - South DFW - TX
+Houston - TX
+San Antonio - TX 
+Austin - TX

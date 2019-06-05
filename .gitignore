@@ -1,2 +1,11 @@
 .DS_Store
 protected/.DS_Store
+
+/node_modules
+/bower_components
+.DS_Store
+/nbproject
+assets
+application.log
+production
+secret.json

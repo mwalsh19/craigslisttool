@@ -1,0 +1,117 @@
+waiting 3 mins.
+init
+Current page about:blank will gone...
+New URL: https://accounts.craigslist.org/login/home
+skiping login
+STARTING POST NUMBER 1
+choosing area
+Unable to load resource (#7URL:https://accounts.craigslist.org/savesearch/counts)
+Error code: 5. Description: Operation canceled
+Current page https://accounts.craigslist.org/login/home will gone...
+redirecting to /k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K
+redirecting to /k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K
+redirecting to https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=area
+redirecting to https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=area
+New URL: https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=area
+choosing type
+Current page https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=area will gone...
+redirecting to https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=type
+redirecting to https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=type
+New URL: https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=type
+choosing category
+Current page https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=type will gone...
+redirecting to https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=cat
+redirecting to https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=cat
+New URL: https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=cat
+Current page https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=cat will gone...
+redirecting to https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=subarea
+redirecting to https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=subarea
+New URL: https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=subarea
+choosing subarea
+Current page https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=subarea will gone...
+redirecting to https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=edit
+redirecting to https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=edit
+New URL: https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=edit
+creating post now!
+Current page https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=edit will gone...
+redirecting to https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=edit
+redirecting to https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=edit
+New URL: https://post.craigslist.org/k/sMvGSVtA5RGKqR3TTUG3ow/wCi6K?s=edit
+init
+Current page about:blank will gone...
+New URL: https://accounts.craigslist.org/login/home
+skiping login
+STARTING POST NUMBER 2
+choosing area
+Unable to load resource (#7URL:https://accounts.craigslist.org/savesearch/counts)
+Error code: 5. Description: Operation canceled
+Current page https://accounts.craigslist.org/login/home will gone...
+redirecting to /k/TNacVFtA5RGmsYWfjDJFZg/gfB8x
+redirecting to /k/TNacVFtA5RGmsYWfjDJFZg/gfB8x
+redirecting to https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=area
+redirecting to https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=area
+New URL: https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=area
+choosing type
+Current page https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=area will gone...
+redirecting to https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=type
+redirecting to https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=type
+New URL: https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=type
+choosing category
+Current page https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=type will gone...
+redirecting to https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=cat
+redirecting to https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=cat
+New URL: https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=cat
+Current page https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=cat will gone...
+redirecting to https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=subarea
+redirecting to https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=subarea
+New URL: https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=subarea
+choosing subarea
+Current page https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=subarea will gone...
+redirecting to https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=edit
+redirecting to https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=edit
+New URL: https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=edit
+creating post now!
+Current page https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=edit will gone...
+redirecting to https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=edit
+redirecting to https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=edit
+New URL: https://post.craigslist.org/k/TNacVFtA5RGmsYWfjDJFZg/gfB8x?s=edit
+init
+Current page about:blank will gone...
+New URL: https://accounts.craigslist.org/login/home
+skiping login
+STARTING POST NUMBER 3
+choosing area
+Unable to load resource (#7URL:https://accounts.craigslist.org/savesearch/counts)
+Error code: 5. Description: Operation canceled
+Unable to load resource (#5URL:https://accounts.craigslist.org/js/worker.js)
+Error code: 5. Description: Operation canceled
+Current page https://accounts.craigslist.org/login/home will gone...
+redirecting to /k/6rC-X1tA5RGP3xombljUfQ/E9wbT
+redirecting to /k/6rC-X1tA5RGP3xombljUfQ/E9wbT
+redirecting to https://post.craigslist.org/k/6rC-X1tA5RGP3xombljUfQ/E9wbT?s=area
+redirecting to https://post.craigslist.org/k/6rC-X1tA5RGP3xombljUfQ/E9wbT?s=area
+New URL: https://post.craigslist.org/k/6rC-X1tA5RGP3xombljUfQ/E9wbT?s=area
+choosing type
+Current page https://post.craigslist.org/k/6rC-X1tA5RGP3xombljUfQ/E9wbT?s=area will gone...
+Unable to load resource (#17URL:https://post.craigslist.org/k/6rC-X1tA5RGP3xombljUfQ/E9wbT)
+Error code: 205. Description: Unknown error
+Failed
+init
+Current page about:blank will gone...
+New URL: https://accounts.craigslist.org/login/home
+skiping login
+STARTING POST NUMBER 4
+choosing area
+Unable to load resource (#7URL:https://accounts.craigslist.org/savesearch/counts)
+Error code: 5. Description: Operation canceled
+Current page https://accounts.craigslist.org/login/home will gone...
+redirecting to /k/oPYRZltA5RGd_LuJ8wLjDw/auEMy
+redirecting to /k/oPYRZltA5RGd_LuJ8wLjDw/auEMy
+redirecting to https://post.craigslist.org/k/oPYRZltA5RGd_LuJ8wLjDw/auEMy?s=area
+redirecting to https://post.craigslist.org/k/oPYRZltA5RGd_LuJ8wLjDw/auEMy?s=area
+New URL: https://post.craigslist.org/k/oPYRZltA5RGd_LuJ8wLjDw/auEMy?s=area
+choosing type
+Current page https://post.craigslist.org/k/oPYRZltA5RGd_LuJ8wLjDw/auEMy?s=area will gone...
+Unable to load resource (#17URL:https://post.craigslist.org/k/oPYRZltA5RGd_LuJ8wLjDw/auEMy)
+Error code: 205. Description: Unknown error
+Failed

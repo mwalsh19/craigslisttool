@@ -1,0 +1,8 @@
+php /Applications/MAMP/htdocs/craiglist-tool/protected/yiic jobs init --index=0 --xml='recent2.xml'
+php /Applications/MAMP/htdocs/craiglist-tool/protected/yiic jobs init --index=1 --xml='recent2.xml'
+php /Applications/MAMP/htdocs/craiglist-tool/protected/yiic jobs init --index=2 --xml='recent2.xml'
+php /Applications/MAMP/htdocs/craiglist-tool/protected/yiic jobs init --index=3 --xml='recent2.xml'
+php /Applications/MAMP/htdocs/craiglist-tool/protected/yiic jobs init --index=4 --xml='recent2.xml'
+php /Applications/MAMP/htdocs/craiglist-tool/protected/yiic jobs init --index=5 --xml='recent2.xml'
+php /Applications/MAMP/htdocs/craiglist-tool/protected/yiic jobs init --index=6 --xml='recent2.xml'
+php /Applications/MAMP/htdocs/craiglist-tool/protected/yiic jobs retryPosts --file='recent2'

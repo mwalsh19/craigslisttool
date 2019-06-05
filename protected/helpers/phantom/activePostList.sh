@@ -1,0 +1,1 @@
+/Applications/phantomjs-2.0.0-macosx/bin/phantomjs --cookies-file=cookie-jar.txt /Applications/MAMP/htdocs/craiglist-tool/protected/helpers/phantom/activePostList.js --filter_page='15' --filter_date='2015-09'

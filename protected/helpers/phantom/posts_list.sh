@@ -1,0 +1,1 @@
+php /Users/dev/Documents/projects/craiglist-tool/protected/yiic postslist init --filter_page='19' --filter_date='2015-05'

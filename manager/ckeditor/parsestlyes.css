@@ -1,0 +1,43 @@
+body
+{
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 14px;
+	color: #000;
+	background-color: #fff;
+}
+/* preserved spaces for rtl list item bullets. (#6249)*/
+ol,ul,dl
+{
+	padding-right:40px;
+}
+
+div.collapse-header
+{
+	border: 1px solid;
+}
+
+div.collapse-body
+{
+	border: 1px solid #CCC;
+}
+
+div.img-responsive
+{
+
+}
+
+div.grid_1,
+div.grid_2,
+div.grid_3,
+div.grid_4,
+div.grid_5,
+div.grid_6,
+div.grid_7,
+div.grid_8,
+div.grid_9,
+div.grid_10,
+div.grid_11,
+div.grid_12
+{
+
+}

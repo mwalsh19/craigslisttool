@@ -1,0 +1,48 @@
+#subareas_container label{
+    font-weight: normal;
+    font-size: 12px;
+    /*text-transform: uppercase;*/
+}
+.help-block.text-red {
+    color: red;
+    font-size: 12px;
+}
+
+/*map */
+#map { height: 400px; }
+
+
+/*login*/
+.login-container {
+    max-width: 500px;
+    border: 1px solid;
+    padding-top: 20px;
+    margin: 0 auto;
+}
+
+.login-container div {
+    text-align: right;
+    margin: 0 auto 20px auto;
+    max-width: 230px;
+}
+
+.logout {
+
+}
+
+/*.error {
+    color: red;
+}*/
+.option-q2-2016 > div{
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+

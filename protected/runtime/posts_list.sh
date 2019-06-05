@@ -1,0 +1,1 @@
+php /Applications/MAMP/htdocs/craiglist-tool/protected/yiic postslist init --filter_page='2' --filter_date='2019-05'

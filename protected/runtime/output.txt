@@ -1,0 +1,344 @@
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Warning: require_once(/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php): failed to open stream: No such file or directory in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
+
+Fatal error: require_once(): Failed opening required '/Applications/MAMP/htdocs/craiglist-tool/protected/../../../../yii-1.1.14.f0fee9/framework/yiic.php' (include_path='.:') in /Applications/MAMP/htdocs/craiglist-tool/protected/yiic.php on line 7
